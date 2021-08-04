@@ -160,9 +160,9 @@ while menuprincipal != 0:
                 input("")
                 clearConsole()   
                 
-                             
+                              
             igrafica = int(input("2Escoja una nueva interfaz grafica: \n 1-dark  \n 2-lihgt  \n 3-hacker  \n 0-salir \n "))
-                                                      
+            clearConsole()                                           
     else:
         clearConsole() 
         print("")
